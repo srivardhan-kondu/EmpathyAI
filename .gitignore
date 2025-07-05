@@ -1,0 +1,8 @@
+.env
+uploads
+test.py
+angry_sample.wav
+happy_sample.wav
+sad_sample.wav
+models
+client/node_modules
