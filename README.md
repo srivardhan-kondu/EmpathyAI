@@ -1,4 +1,4 @@
-# AI-Powered Mental Health Therapy Bot
+# Empathy AI – Generative AI-Powered Mental Health Companion                
 
 ## Overview
 The AI-Powered Mental Health Therapy Bot is designed to provide empathetic, personalized mental health support by analyzing user emotions through text, voice, and facial expressions. The system integrates NLP-based sentiment analysis, facial emotion detection, voice tone analysis, and an AI chatbot with therapy recommendations. Additionally, it supports Speech-to-Text (SST) capabilities.
